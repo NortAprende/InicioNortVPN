@@ -37,8 +37,7 @@ InicioNort es exclusivamente para uso local y personal, conforme con los Términ
 - 🕵 Sin recolección de datos.
 
 **Captura de Pantalla**  
-**InicioNort en Acción**  
-![Vista Previa](https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-eda4-622f-8ca0-138fc2478d20/raw?se=2025-09-05T04%3A38%3A05Z&sp=r&sv=2024-08-04&sr=b&scid=4dee89f6-8ab5-5652-baa0-fb35d5b08552&skoid=24a7dec3-38fc-4904-b888-8abe0855c442&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-04T19%3A01%3A30Z&ske=2025-09-05T19%3A01%3A30Z&sks=b&skv=2024-08-04&sig=e/RBXU0z7bgqH4DGmWncEOWzwgd7/UgR9R3YDg2oJnA%3D)  
+**InicioNort en Acción**   
 **Contribuir**  
 Abre un *issue* para sugerencias. Las contribuciones deben cumplir con los Términos de GitHub.  
 
